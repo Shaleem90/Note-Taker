@@ -46,7 +46,7 @@ app.post("/api/notes", (req, res) => {
     });
 });
 
-// get a specific note to read
+// Get
 app.get("/api/notes/:title", (req, res) => {
 
     fs.readFile(__dirname + "/db/db.json", (err, data) => {
