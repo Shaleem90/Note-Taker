@@ -1,16 +1,16 @@
 # Note-Taker
 
-# Description
+## Description
 
 Created an application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
 
-# Technolgies Used
+## Technolgies Used
 
-HTML5
-CSS
-ES6
-Node.js
-Express.js
+HTML5,
+CSS,
+ES6,
+Node.js,
+Express.js,
 
 ## Application Purpose
 
